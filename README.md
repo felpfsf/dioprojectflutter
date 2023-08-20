@@ -1,6 +1,6 @@
 # dioprojectflutter
 
-A new Flutter project.
+Projeto iniciante de flutter do bootcamp Santander na DIO
 
 ## Getting Started
 
